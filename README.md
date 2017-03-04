@@ -14,6 +14,7 @@ Let's jump into:
 |[React Production Starter](https://github.com/jaredpalmer/react-production-starter)|React Redux Express|
 |[React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)|React Rexux Redux-Saga Express Jest Enzyme|
 |[React Slingshot](https://github.com/coryhouse/react-slingshot)|React Redux Browsersync Jest Enzyme|
+|[Atomic React](https://github.com/diegohaz/arc)|React Redux Universal-Redux Express MongoDB Jest|
 
 
 
