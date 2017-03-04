@@ -10,6 +10,7 @@ Let's jump into:
 | Link | Tech |
 |------|------|
 |[React Production Starter](https://github.com/jaredpalmer/react-production-starter)|React Redux|
+|[React Redux Starter Kik](https://github.com/davezuko/react-redux-starter-kit)|React Redux|
 
 
 
