@@ -9,7 +9,7 @@ Let's jump into:
 
 | Link | Tech |
 |------|------|
-|[https://github.com/jaredpalmer/react-production-starter](React Production Starter)|React Redux|
+|[React Production Starter](https://github.com/jaredpalmer/react-production-starter)|React Redux|
 
 
 
